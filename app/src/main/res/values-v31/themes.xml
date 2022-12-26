@@ -3,5 +3,4 @@
     <style name="Theme.Shoppiandroid.Splash">
         <item name="android:windowSplashScreenBackground">@color/shoppi_white</item>
     </style>
-
 </resources>
